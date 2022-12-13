@@ -17,6 +17,3 @@
 # IDEs
 .idea
 .vscode
-
-# Test data
-/testdata
