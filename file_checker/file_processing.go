@@ -39,7 +39,6 @@ func ReadData() error {
 		}()
 		b := <-ch
 		if b {
-			fmt.Println(b)
 			return nil
 		}
 	}
